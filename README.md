@@ -46,7 +46,13 @@ npx create-next-app@latest nextjs-blog --use-npm --example "https://github.com/v
 ### Layout Component
 ### Global Styles
 ### Polishing Layout
+![image](https://github.com/user-attachments/assets/8454d68a-a204-4f13-9d94-d5a4c655ad5d)
+
 ### Styling Tips
+- Using 'clsx' library to toggle classes
+```
+npm install clsx
+```
 
 ## 4. Pre-rendering and Data Fetching (Oct ? 2024 ?)
 ### Setup
