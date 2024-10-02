@@ -42,6 +42,7 @@ npx create-next-app@latest nextjs-blog --use-npm --example "https://github.com/v
 - Script component 에 additional properties 추가 가능 1) strategy: this controls when the third-party script should load. 2) onLoad: this one's used to run any JS code immediately after the script has finished loading.
 ### Third-Party JavaScript
 ### CSS Styling
+- Important: To use CSS Modules, the CSS file name must end with .module.css.
 ### Layout Component
 ### Global Styles
 ### Polishing Layout
