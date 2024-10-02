@@ -5,7 +5,7 @@
 
 * Tutorial to follow: [https://developer.mozilla.org/ko/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started](https://nextjs.org/learn-pages-router/basics/create-nextjs-app)
 
-## 1. Create a Next.js App (Oct ? 2024 ?)
+## 1. Create a Next.js App (Oct 02 2024 수)
 ### Setup
 ### Welcome to Next.js
 ### Editing the Page
