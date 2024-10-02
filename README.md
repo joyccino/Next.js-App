@@ -39,6 +39,7 @@ npx create-next-app@latest nextjs-blog --use-npm --example "https://github.com/v
 ### Assets
 - Files inside 'public' directory can be referenced from the root of the application.
 ### Metadata
+- Script component 에 additional properties 추가 가능 1) strategy: this controls when the third-party script should load. 2) onLoad: this one's used to run any JS code immediately after the script has finished loading.
 ### Third-Party JavaScript
 ### CSS Styling
 ### Layout Component
