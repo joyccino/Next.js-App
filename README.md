@@ -5,12 +5,57 @@
 
 * Tutorial to follow: [https://developer.mozilla.org/ko/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started](https://nextjs.org/learn-pages-router/basics/create-nextjs-app)
 
-## 1. Create a Next.js App (Oct 2 2024 수)
-### add
-1) yada yada
-2) yada yada
+## 1. Create a Next.js App (Oct ? 2024 ?)
+### Setup
+### Welcome to Next.js
+### Editing the Page
 
-## 1. Create a Next.js App (Oct 2 2024 수)
-### add
-1) yada yada
-2) yada yada
+## 2. Navigate Between Pages (Oct ? 2024 ?)
+### Setup
+### Pages in Next.JS
+### Link Component
+### Client-Side Navigation
+
+## 3. Assets, Metadata, and CSS (Oct ? 2024 ?)
+### Setup
+### Assets
+### Metadata
+### Third-Party JavaScript
+### CSS Styling
+### Layout Component
+### Global Styles
+### Polishing Layout
+### Styling Tips
+
+## 4. Pre-rendering and Data Fetching (Oct ? 2024 ?)
+### Setup
+### Pre-rendering
+### Two Forms and Pre-rendering
+### Static Generation with and without Data
+### Blog Data
+### Implement getStaticProps
+### getStaticProps Details
+### Fetching Data at Request Time
+
+## 5. Dynamic Routes (Oct ? 2024 ?)
+### Setup
+### Page Path Depends on External Data
+### Implement getStaticPaths
+### Implement getStaticProps
+### Rendering MArkdown
+### Polishing the Post Page
+### Polishing the Index Page
+### DYnamic Routes Details
+
+## 6. API Routes (Oct ? 2024 ?)
+### Setup
+### Creating API Routes
+### API Routes Details
+
+## 7. Deploying your Next.JS App (Oct ? 2024 ?)
+### Setup
+### Push to GitHub
+### Deploy to Vercel
+### Next.JS and Vercel
+### Other Hosting Options
+### Finally
