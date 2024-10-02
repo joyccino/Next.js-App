@@ -14,6 +14,10 @@
 npx create-next-app@latest nextjs-blog --use-npm --example "https://github.com/vercel/next-learn/tree/main/basics/learn-starter"
 ```
 - `cd nextjs-blog` then `npm run dev`
+- Access `http://localhost:3000` then you will see the starter template page.
+![image](https://github.com/user-attachments/assets/cf20c8c3-85a3-4f1a-975f-db116f45bc4f)
+
+
 ### Welcome to Next.js
 ### Editing the Page
 
