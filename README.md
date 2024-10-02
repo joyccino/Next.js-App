@@ -30,6 +30,8 @@ npx create-next-app@latest nextjs-blog --use-npm --example "https://github.com/v
 ![image](https://github.com/user-attachments/assets/6cd60053-f207-43b7-a932-ddcdc26a35d0)
 
 ### Link Component
+- We use <a> HTML tag for linking between pages on websites.
+- In Next.JS, we can use the 'Link' Component => 'Link' allows us to do client-side navigation + accepts props that gives us better control over the navigation behaviour.
 ### Client-Side Navigation
 
 ## 3. Assets, Metadata, and CSS (Oct ? 2024 ?)
