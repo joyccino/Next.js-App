@@ -17,9 +17,9 @@ npx create-next-app@latest nextjs-blog --use-npm --example "https://github.com/v
 - Access `http://localhost:3000` then you will see the starter template page.
 ![image](https://github.com/user-attachments/assets/cf20c8c3-85a3-4f1a-975f-db116f45bc4f)
 
-
 ### Welcome to Next.js
 ### Editing the Page
+![image](https://github.com/user-attachments/assets/3b103065-c932-46a5-b056-e8a02b204648)
 
 ## 2. Navigate Between Pages (Oct ? 2024 ?)
 ### Setup
