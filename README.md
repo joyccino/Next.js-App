@@ -21,7 +21,7 @@ npx create-next-app@latest nextjs-blog --use-npm --example "https://github.com/v
 ### Editing the Page
 ![image](https://github.com/user-attachments/assets/3b103065-c932-46a5-b056-e8a02b204648)
 
-## 2. Navigate Between Pages (Oct ? 2024 ?)
+## 2. Navigate Between Pages (Oct 02 2024 수)
 ### Setup
 ### Pages in Next.JS
 ### Link Component
