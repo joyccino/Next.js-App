@@ -25,6 +25,9 @@ npx create-next-app@latest nextjs-blog --use-npm --example "https://github.com/v
 ### Setup
 ### Pages in Next.JS
 - In Next.js, a page is a <b>React Component</b> exported from a file in the <b>pages directory</b>.
+- Create 'pages/posts/first-post.js'.
+![image](https://github.com/user-attachments/assets/6cd60053-f207-43b7-a932-ddcdc26a35d0)
+
 ### Link Component
 ### Client-Side Navigation
 
