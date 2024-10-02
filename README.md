@@ -53,6 +53,10 @@ npx create-next-app@latest nextjs-blog --use-npm --example "https://github.com/v
 ```
 npm install clsx
 ```
+- Next.JS compiles CSS using PostCSS with no configuration
+```
+npm install -D tailwindcss autoprefixer postcss
+```
 
 ## 4. Pre-rendering and Data Fetching (Oct ? 2024 ?)
 ### Setup
