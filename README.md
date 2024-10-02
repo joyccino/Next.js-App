@@ -13,7 +13,7 @@
 ```
 npx create-next-app@latest nextjs-blog --use-npm --example "https://github.com/vercel/next-learn/tree/main/basics/learn-starter"
 ```
-
+- `cd nextjs-blog` then `npm run dev`
 ### Welcome to Next.js
 ### Editing the Page
 
