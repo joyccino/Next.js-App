@@ -32,7 +32,9 @@ npx create-next-app@latest nextjs-blog --use-npm --example "https://github.com/v
 ### Link Component
 - We use <a> HTML tag for linking between pages on websites.
 - In Next.JS, we can use the 'Link' Component => 'Link' allows us to do client-side navigation + accepts props that gives us better control over the navigation behaviour.
+
 ### Client-Side Navigation
+- Next.JS does code-splitting automatically: 초기 렌더링시 초반에 불필요한 요소 (JS, 라이브러리, 페이지, 컴포넌트 등) 을 코드 스플리팅 통해 나중에 들고옴 => 성능 면에서 매력적.
 
 ## 3. Assets, Metadata, and CSS (Oct ? 2024 ?)
 ### Setup
