@@ -22,9 +22,8 @@ npx create-next-app@latest nextjs-blog --use-npm --example "https://github.com/v
 ![image](https://github.com/user-attachments/assets/3b103065-c932-46a5-b056-e8a02b204648)
 
 ## 2. Navigate Between Pages (Oct 02 2024 수)
-### Setup
 ### Pages in Next.JS
-- In Next.js, a page is a <b>React Component</b> exported from a file in the <b>pages directory</b>.
+- In Next.js, a page is a <b>React Component</b> exported from a file in the **pages directory**.
 - Create 'pages/posts/first-post.js'.
   
 ![image](https://github.com/user-attachments/assets/6cd60053-f207-43b7-a932-ddcdc26a35d0)
@@ -36,9 +35,9 @@ npx create-next-app@latest nextjs-blog --use-npm --example "https://github.com/v
 ### Client-Side Navigation
 - Next.JS does code-splitting automatically: 초기 렌더링시 초반에 불필요한 요소 (JS, 라이브러리, 페이지, 컴포넌트 등) 을 코드 스플리팅 통해 나중에 들고옴 => 성능 면에서 매력적.
 
-## 3. Assets, Metadata, and CSS (Oct ? 2024 ?)
-### Setup
+## 3. Assets, Metadata, and CSS (Oct 02 2024 수)
 ### Assets
+- Files inside 'public' directory can be referenced from the root of the application.
 ### Metadata
 ### Third-Party JavaScript
 ### CSS Styling
