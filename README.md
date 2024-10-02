@@ -24,6 +24,7 @@ npx create-next-app@latest nextjs-blog --use-npm --example "https://github.com/v
 ## 2. Navigate Between Pages (Oct 02 2024 수)
 ### Setup
 ### Pages in Next.JS
+- In Next.js, a page is a <b>React Component</b> exported from a file in the <b>pages directory</b>.
 ### Link Component
 ### Client-Side Navigation
 
