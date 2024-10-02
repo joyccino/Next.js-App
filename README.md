@@ -33,12 +33,13 @@ npx create-next-app@latest nextjs-blog --use-npm --example "https://github.com/v
 - In Next.JS, we can use the 'Link' Component => 'Link' allows us to do client-side navigation + accepts props that gives us better control over the navigation behaviour.
 
 ### Client-Side Navigation
-- Next.JS does code-splitting automatically: 초기 렌더링시 초반에 불필요한 요소 (JS, 라이브러리, 페이지, 컴포넌트 등) 을 코드 스플리팅 통해 나중에 들고옴 => 성능 면에서 매력적.
+- Next.JS does code-splitting automatically: 초기 렌더링시 초반에 불필요한 요소 (JS, 라이브러리, 페이지, 컴포넌트 등) 을 코드 스플리팅 통해 나중에 가져올것 => 성능 면에서 매력적.
 
 ## 3. Assets, Metadata, and CSS (Oct 02 2024 수)
 ### Assets
 - Files inside 'public' directory can be referenced from the root of the application.
 ### Metadata
+- Script component 에 additional properties 추가 가능 1) strategy: this controls when the third-party script should load. 2) onLoad: this one's used to run any JS code immediately after the script has finished loading.
 ### Third-Party JavaScript
 ### CSS Styling
 ### Layout Component
