@@ -8,6 +8,12 @@
 
 ## 1. Create a Next.js App (Oct 02 2024 수)
 ### Setup
+- Node.js version 18 or higher is required.
+- Create the app via following command:
+```
+npx create-next-app@latest nextjs-blog --use-npm --example "https://github.com/vercel/next-learn/tree/main/basics/learn-starter"
+```
+- `cd nextjs-blog` then `npm run dev`
 ### Welcome to Next.js
 ### Editing the Page
 
