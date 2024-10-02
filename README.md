@@ -17,14 +17,21 @@ npx create-next-app@latest nextjs-blog --use-npm --example "https://github.com/v
 - Access `http://localhost:3000` then you will see the starter template page.
 ![image](https://github.com/user-attachments/assets/cf20c8c3-85a3-4f1a-975f-db116f45bc4f)
 
-
 ### Welcome to Next.js
 ### Editing the Page
+![image](https://github.com/user-attachments/assets/3b103065-c932-46a5-b056-e8a02b204648)
 
-## 2. Navigate Between Pages (Oct ? 2024 ?)
+## 2. Navigate Between Pages (Oct 02 2024 수)
 ### Setup
 ### Pages in Next.JS
+- In Next.js, a page is a <b>React Component</b> exported from a file in the <b>pages directory</b>.
+- Create 'pages/posts/first-post.js'.
+  
+![image](https://github.com/user-attachments/assets/6cd60053-f207-43b7-a932-ddcdc26a35d0)
+
 ### Link Component
+- We use <a> HTML tag for linking between pages on websites.
+- In Next.JS, we can use the 'Link' Component => 'Link' allows us to do client-side navigation + accepts props that gives us better control over the navigation behaviour.
 ### Client-Side Navigation
 
 ## 3. Assets, Metadata, and CSS (Oct ? 2024 ?)
