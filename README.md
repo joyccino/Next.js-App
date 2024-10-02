@@ -57,7 +57,10 @@ npm install clsx
 ```
 npm install -D tailwindcss autoprefixer postcss
 ```
-
+- Using Sass
+```
+npm install -D sass
+```
 ## 4. Pre-rendering and Data Fetching (Oct ? 2024 ?)
 ### Setup
 ### Pre-rendering
