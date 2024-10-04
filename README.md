@@ -89,6 +89,8 @@ npm install -D sass
 ### Implement getStaticProps
 ### getStaticProps Details
 ### Fetching Data at Request Time
+- SWR: The team behind Next.js has created a React hook for data fetching called SWR. Highly recommended if you’re fetching data on the client side. It handles caching, revalidation, focus tracking, refetching on interval, and more.
+
 
 ## 5. Dynamic Routes (Oct ? 2024 ?)
 ### Setup
