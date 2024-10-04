@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "clsx": "^2.1.1",
+    "date-fns": "^4.1.0",
     "fs": "^0.0.1-security",
     "gray-matter": "^4.0.3",
     "matter": "^0.2.0",
