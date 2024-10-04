@@ -4,7 +4,7 @@
 일단 React 자체가 익숙치 않으신 경우라면 Nextjs나 ReactNative를 살펴보기 이전에 React의 기본 라이프 사이클과 철학, 개념 등을 익히고 (Done) 그 다음 Nextjs 프레임워크 실습을 하면 좋을 것 같아요 (Goal Now).
 
 * Tutorial to follow: [https://developer.mozilla.org/ko/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started](https://nextjs.org/learn-pages-router/basics/create-nextjs-app)
-* 실습 기간: 2024/10/02 ~ (0일)
+* 실습 기간: 2024/10/02 ~ 2024/10/04 (3일)
 
 ## 1. Create a Next.js App (Oct 02 2024 수)
 ### Setup
@@ -89,23 +89,29 @@ npm install -D sass
 ### Implement getStaticProps
 ### getStaticProps Details
 ### Fetching Data at Request Time
+- SWR: The team behind Next.js has created a React hook for data fetching called SWR. Highly recommended if you’re fetching data on the client side. It handles caching, revalidation, focus tracking, refetching on interval, and more.
 
-## 5. Dynamic Routes (Oct ? 2024 ?)
-### Setup
+
+## 5. Dynamic Routes (Oct 04 2024 금)
 ### Page Path Depends on External Data
+![image](https://github.com/user-attachments/assets/0f3a9214-bc5c-4eca-8c06-32f64e857690)
+
 ### Implement getStaticPaths
 ### Implement getStaticProps
-### Rendering MArkdown
+### Rendering Markdown
+![image](https://github.com/user-attachments/assets/782dd5ba-5813-4f28-9692-f386e95d8f83)
+![image](https://github.com/user-attachments/assets/90fca823-7416-4213-a60e-103e6b5217b0)
+
+
 ### Polishing the Post Page
 ### Polishing the Index Page
-### DYnamic Routes Details
+### Dynamic Routes Details
 
-## 6. API Routes (Oct ? 2024 ?)
-### Setup
+## 6. API Routes (Oct 04 2024 금)
 ### Creating API Routes
 ### API Routes Details
 
-## 7. Deploying your Next.JS App (Oct ? 2024 ?)
+## 7. Deploying your Next.JS App (Oct 04 2024 금)
 ### Setup
 ### Push to GitHub
 ### Deploy to Vercel
