@@ -92,8 +92,7 @@ npm install -D sass
 - SWR: The team behind Next.js has created a React hook for data fetching called SWR. Highly recommended if you’re fetching data on the client side. It handles caching, revalidation, focus tracking, refetching on interval, and more.
 
 
-## 5. Dynamic Routes (Oct ? 2024 ?)
-### Setup
+## 5. Dynamic Routes (Oct 04 2024 금)
 ### Page Path Depends on External Data
 ### Implement getStaticPaths
 ### Implement getStaticProps
@@ -102,12 +101,11 @@ npm install -D sass
 ### Polishing the Index Page
 ### DYnamic Routes Details
 
-## 6. API Routes (Oct ? 2024 ?)
-### Setup
+## 6. API Routes (Oct 04 2024 금)
 ### Creating API Routes
 ### API Routes Details
 
-## 7. Deploying your Next.JS App (Oct ? 2024 ?)
+## 7. Deploying your Next.JS App (Oct 04 2024 금)
 ### Setup
 ### Push to GitHub
 ### Deploy to Vercel
