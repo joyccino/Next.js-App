@@ -76,6 +76,13 @@ npm install -D sass
 ![image](https://github.com/user-attachments/assets/6bdb7e0c-b7ac-4012-9be3-76a19cd15328)
 
 ### Static Generation with and without Data
+![image](https://github.com/user-attachments/assets/3af27d92-104f-4783-806d-b6b8a2afffe4)
+- Static Generation with Data using `getStaticProps`.
+1. `getStaticProps` is an async function.
+2. `getStaticProps` runs at build time in production
+3. Inside the function, we can fetch external data and send it as props to the page.
+4. `getStaticProps` 가 Next.js 에게 '해당 페이지에 some data dependencies 있으니 build time 에 pre-render 할 때 그 작업을 먼저 resolve 하도록' 알림.
+
 ### Blog Data
 ### Implement getStaticProps
 ### getStaticProps Details
