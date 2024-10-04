@@ -94,6 +94,8 @@ npm install -D sass
 
 ## 5. Dynamic Routes (Oct 04 2024 금)
 ### Page Path Depends on External Data
+![image](https://github.com/user-attachments/assets/0f3a9214-bc5c-4eca-8c06-32f64e857690)
+
 ### Implement getStaticPaths
 ### Implement getStaticProps
 ### Rendering MArkdown
