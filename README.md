@@ -83,6 +83,8 @@ npm install -D sass
 3. Inside the function, we can fetch external data and send it as props to the page.
 4. `getStaticProps` 가 Next.js 에게 '해당 페이지에 some data dependencies 있으니 build time 에 pre-render 할 때 그 작업을 먼저 resolve 하도록' 알림.
 
+실습 중 markdown file 의 metadata parsing 을 위해 gray-matter 인스톨
+```npm install gray-matter```
 ### Blog Data
 ### Implement getStaticProps
 ### getStaticProps Details
