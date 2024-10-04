@@ -111,9 +111,9 @@ npm install -D sass
 ### API Routes Details
 
 ## 7. Deploying your Next.JS App (Oct 04 2024 금)
-### Setup
-### Push to GitHub
 ### Deploy to Vercel
+- The easiest way to deploy Next.js to production is to use the Vercel platform developed by the creators of Next.js.
+- Vercel is a serverless platform for static and hybrid applications built to integrate with your headless content, commerce, or database.
 ### Next.JS and Vercel
 ### Other Hosting Options
 ### Finally
