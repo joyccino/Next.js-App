@@ -73,6 +73,8 @@ npm install -D sass
 
 2. **Server-side Rendering** is the pre-rendering method generates the HTML on *each request*. ![image](https://github.com/user-attachments/assets/873c0564-4a57-4462-9315-a436cbbd3b84)
 
+![image](https://github.com/user-attachments/assets/6bdb7e0c-b7ac-4012-9be3-76a19cd15328)
+
 ### Static Generation with and without Data
 ### Blog Data
 ### Implement getStaticProps
