@@ -107,7 +107,7 @@ npm install -D sass
 ### Dynamic Routes Details
 
 ## 6. API Routes (Oct 04 2024 금)
-### Creating API Routes
+### Creating API Routes: Next.js has support for API Routes, which let you easily create an API endpoint as a Node.js serverless function.
 ### API Routes Details
 
 ## 7. Deploying your Next.JS App (Oct 04 2024 금)
