@@ -62,9 +62,17 @@ npm install -D tailwindcss autoprefixer postcss
 npm install -D sass
 ```
 ## 4. Pre-rendering and Data Fetching (Oct 04 2024 금)
-### Setup
 ### Pre-rendering
-### Two Forms and Pre-rendering
+- Data fetching 전에 Next.js 에서 중요한 concept 인 pre-rendering 다룰 것.
+1. By default, Next.js pre-renders every page.
+2. Next.js generates HTML for each page in advance, instead of having it all done by client-side JS.
+3. Therefore, JS 를 disable 후 브라우저로 예시 페이지를 열어도 정상 동작 => 프리렌더링 했기 때문 (pure React.js App 에는 없는 것)
+4. Pre-rendering can result in better performance & SEO.
+### Two Forms of Pre-rendering
+1. *Static Generation* is the pre-rendering method that generates the HTML at *build time*. ![image](https://github.com/user-attachments/assets/c82cf2bd-4f63-4b64-9e40-e7ae87ef0f8b)
+
+2. *Server-side Rendering* is the pre-rendering method generates the HTML on *each request*. ![image](https://github.com/user-attachments/assets/873c0564-4a57-4462-9315-a436cbbd3b84)
+
 ### Static Generation with and without Data
 ### Blog Data
 ### Implement getStaticProps
