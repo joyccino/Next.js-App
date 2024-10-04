@@ -61,7 +61,7 @@ npm install -D tailwindcss autoprefixer postcss
 ```
 npm install -D sass
 ```
-## 4. Pre-rendering and Data Fetching (Oct ? 2024 ?)
+## 4. Pre-rendering and Data Fetching (Oct 04 2024 금)
 ### Setup
 ### Pre-rendering
 ### Two Forms and Pre-rendering
