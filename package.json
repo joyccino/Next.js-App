@@ -1,7 +1,10 @@
 {
   "dependencies": {
     "clsx": "^2.1.1",
-    "gray-matter": "^4.0.3"
+    "fs": "^0.0.1-security",
+    "gray-matter": "^4.0.3",
+    "matter": "^0.2.0",
+    "path": "^0.12.7"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.20",
