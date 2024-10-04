@@ -98,10 +98,14 @@ npm install -D sass
 
 ### Implement getStaticPaths
 ### Implement getStaticProps
-### Rendering MArkdown
+### Rendering Markdown
+![image](https://github.com/user-attachments/assets/782dd5ba-5813-4f28-9692-f386e95d8f83)
+![image](https://github.com/user-attachments/assets/90fca823-7416-4213-a60e-103e6b5217b0)
+
+
 ### Polishing the Post Page
 ### Polishing the Index Page
-### DYnamic Routes Details
+### Dynamic Routes Details
 
 ## 6. API Routes (Oct 04 2024 금)
 ### Creating API Routes
